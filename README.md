@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **reactJs or nextJS project**
 
-- 💬 Ask me about **react, nextJs, Html, CSS**
+- 💬 Ask me about **react, nextJs, Html, CSS, Nodejs**
 
 - 📫 How to reach me **ankurvadhwani33@gmail.com**
 
